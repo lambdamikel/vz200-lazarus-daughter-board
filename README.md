@@ -6,8 +6,8 @@ Sometimes, VZ-200 repairs go really bad - if you have to remove the
 6116 SRAM or ROM chips during a repair due to faulty RAM / ROM,
 chances are that you are going to cause damage to the motherboard, as
 the PCB quality is very low. So far, everybody attempting to remove
-the ROM chips from the board has a least lifted a couple of paids
-and/or broke traces.
+the ROM chips from the board has a least lifted a couple of pads
+and/or damage some PCB traces, resulting in bodge-wires. 
 
 ![PCB damage](images/pcb-damage.jpg) 
 
