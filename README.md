@@ -1,5 +1,4 @@
-# Laser (VTech, Dick Smith, Sanyo Video Technologies, ...) VZ-200
- Lazarus Daughter Board
+# Laser (VTech, Dick Smith, Sanyo Video Technologies, ...) VZ-200 Lazarus Daughter Board
 
 ## Background
 
