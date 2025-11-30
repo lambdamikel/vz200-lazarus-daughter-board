@@ -74,9 +74,7 @@ The Gerbers are [here.](gerbers/vz200-lazarus.zip)
 Details can also be found in my [YouTube
 video.](https://youtu.be/oaSFn2akLK8) 
 
-
-## Please leave a "Star" if this project helped you to bring your
-VZ-200 back to life!
+### Please leave a "Star" if this project helped you to bring your VZ-200 back to life!
 
 
 
