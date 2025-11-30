@@ -12,7 +12,7 @@ and/or damage some PCB traces, resulting in bodge-wires.
 ![PCB damage](images/pcb-damage.jpg) 
 
 In my case, the PCB got damaged so badly that I opted to create a
-daughter board replacing the entire memory (RAM, ROM) sub-system via a
+daughter board replacing the entire memory (RAM, ROM) sub-system with a
 plugin daughter board - else, I would have needed two dozen of bodge
 wires, and the chances of resurrecting the machine were close to zero.
 However, the daughter board, replacing the entire memory sub-system,
