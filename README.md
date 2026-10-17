@@ -1,5 +1,7 @@
 # Laser (VTech, Dick Smith, Sanyo Video Technologies, ...) VZ-200 Lazarus Daughter Board
 
+#### Project Page: [www.michael-wessel.info/hardware.html](https://www.michael-wessel.info/hardware.html#vz-200-lazarus-daughter-board)
+
 ## Background
 
 Sometimes, VZ-200 repairs go really bad - if you have to remove the
